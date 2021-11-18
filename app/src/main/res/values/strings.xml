@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Проверь себя</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="a">A</string>
+    <string name="result">Результат</string>
+    <string name="r">Какой океан омывает восточное побережье США? \n\n A) Атлантический \n\n B) Тихий \n\n C) Индийский</string>
+    <string name="list_answer">Вопросы</string>
+    <string name="start">Начать</string>
+</resources>
